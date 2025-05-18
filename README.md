@@ -31,6 +31,7 @@ If you want to add yours to the list, feel free to make a PR or to send me a mes
 - **Phantomwise** : *Phantomwise's Custom Jellyfin Thumbnails Part 2* on [postimage](https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/extra-thumbnails.md)
 - **Puptentjoe** : *Thumbnails* on [GoogleDrive](https://drive.google.com/drive/folders/1o2J6HHHKTxvJ-IgkVoqJczCUPsBzqj35)
 - **scope66** : *Thumbnails* on [GoogleDrive](https://drive.google.com/drive/folders/15SGUccIljBZEysLj-cuMzpJ3I3QOVbIB)
+- **Atomicmoon** : *Gradient Hulu-style Media Library Thumbnails* on [GoogleDrive](https://drive.google.com/drive/u/0/folders/1fOGiB-kTUGIgdT-Hox2uuhVh0E-GQi74)
 
 # Collections Thumbnails
 
