@@ -26,6 +26,7 @@ If you want to add yours to the list, feel free to make a PR or to send me a mes
 - [Help and tutos](#help-and-tutos)
 
 # Library Thumbnails
+- **AgentHarmA** : Jellyfin Library Cart Art on [Jellyfin Forum](https://forum.jellyfin.org/t-jellyfin-library-cart-art)
 - **Atomicmoon** : *Gradient Hulu-style Media Library Thumbnails* on [GoogleDrive](https://drive.google.com/drive/u/0/folders/1fOGiB-kTUGIgdT-Hox2uuhVh0E-GQi74)
 - **DevilsDesigns** : *Devils Deisgns Custom Jellyfin Thumbnails* on [GitHub](https://github.com/DevilsDesigns/Devils-Designs-Custom-Jellyfin-Thumbnails)
 - **dylankerrison** : *Thumbnails* on [imgur](https://imgur.com/a/jellyfin-icons-Guqk15B) or [dropbox](https://www.dropbox.com/scl/fo/xc4xnjbeprls5xn0qeied/AEl3aKDUkTBrQhp8z4kF8-k/Jellyfin?dl=0&rlkey=jsdrqzg7zz45efcm6j2rdnci7&subfolder_nav_tracking=1)
