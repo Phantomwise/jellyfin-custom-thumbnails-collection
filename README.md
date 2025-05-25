@@ -32,6 +32,7 @@ If you want to add yours to the list, feel free to make a PR or to send me a mes
 - **Phantomwise** : *Phantomwise's Custom Jellyfin Thumbnails Part 2* on [postimage](https://github.com/Phantomwise/jellyfin-phantomwise-custom-thumbnails/blob/main/extra-thumbnails.md)
 - **Puptentjoe** : *Thumbnails* on [GoogleDrive](https://drive.google.com/drive/folders/1o2J6HHHKTxvJ-IgkVoqJczCUPsBzqj35)
 - **scope66** : *Thumbnails* on [GoogleDrive](https://drive.google.com/drive/folders/15SGUccIljBZEysLj-cuMzpJ3I3QOVbIB)
+- **Unknown** : *Jellyfin Gradient Library Covers* on [Imgur](https://imgur.com/a/jellyfin-gradient-library-covers-VFCzPXc)
 
 # Collections Thumbnails
 
