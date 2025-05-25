@@ -23,6 +23,7 @@ If you want to add yours to the list, feel free to make a PR or to send me a mes
 # Index
 - [Library Thumbnails](#library-icons)
 - [Collections Thumbnails](#collections-icons)
+- [Help and tutos](#help-and-tutos)
 
 # Library Thumbnails
 - **Atomicmoon** : *Gradient Hulu-style Media Library Thumbnails* on [GoogleDrive](https://drive.google.com/drive/u/0/folders/1fOGiB-kTUGIgdT-Hox2uuhVh0E-GQi74)
@@ -38,5 +39,10 @@ If you want to add yours to the list, feel free to make a PR or to send me a mes
 # Collections Thumbnails
 
 - ...
+
+# Help and tutos
+
+- How to make animated thumbnails and posters :
+  - https://forum.jellyfin.org/t-in-need-of-a-collection-library-thumbnail?pid=50209#pid50209
 
 # ...
