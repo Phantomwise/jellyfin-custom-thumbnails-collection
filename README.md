@@ -18,7 +18,9 @@
 
 This is a list of custom thumbnails for Jellyfin made by various people.
 
-If you want to add yours to the list, feel free to make a PR or to send me a message with the link. If you used AI to make the images, please disclose it.
+If you want to add yours to the list, feel free to make a PR or to send me a message with the link.
+
+If you used AI to make the images, please disclose it, I'll add an AI mention to the item in the list for the people looking at this list who want to avoid AI art.
 
 # Index
 - [Library Thumbnails](#library-icons)
